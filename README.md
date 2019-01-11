@@ -7,7 +7,7 @@
 What's up!
 
 * Learning Markdown
-*Learning Git
+* Learning Git
 
 * Learning Github
 * Learning learing...
